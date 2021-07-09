@@ -1,4 +1,4 @@
-# mixedMessages
+# DasmotosArtAndCrafts
 This project from Codecademy is designed to replicate the structure, content and styling of a basic website HTML and CSS.
 
 ## Project Objectives
